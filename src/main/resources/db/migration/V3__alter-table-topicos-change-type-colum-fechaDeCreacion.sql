@@ -1,0 +1,2 @@
+ALTER TABLE topicos
+MODIFY COLUMN fechaDeCreacion VARCHAR(19);
